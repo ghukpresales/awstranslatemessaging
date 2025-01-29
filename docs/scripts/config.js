@@ -1,8 +1,8 @@
 export default {
     // Token Implicit Grant Client ID
-    clientID: 'your-client-id-here',
+    clientID: 'a0e7bcd6-6d04-4a65-b7ff-e92d5da8109c',
 
-    redirectUri: 'https://localhost/',
+    redirectUri: 'https://awstranslatemessaging-7vzhyfekx-vercel-ukpresales-projects.vercel.app/',
 
     genesysCloud: {
         // Genesys Cloud region
@@ -10,5 +10,5 @@ export default {
         region: 'mypurecloud.com'
     },
 
-    translateServiceURI: 'https://localhost/translate'
+    translateServiceURI: 'https://awstranslatemessaging-7vzhyfekx-vercel-ukpresales-projects.vercel.app/translate'
 } 
